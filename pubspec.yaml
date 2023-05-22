@@ -1,0 +1,49 @@
+name: online_shop_with_bloc
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cached_network_image: ^3.2.3
+  cupertino_icons: ^1.0.2
+  flutter_rating_bar: ^4.0.1
+  flutter_slidable: ^2.0.0
+  flutter_vector_icons: ^2.0.0
+  google_fonts: ^4.0.4
+  hive_flutter: ^1.1.0
+  staggered_grid_view_flutter: ^0.0.4
+  flutter_bloc: ^8.1.2
+  bloc: ^8.1.1
+  equatable: ^2.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/json/
+  #   - images/a_dot_ham.jpeg
+
+
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
