@@ -25,3 +25,17 @@ The Flutter Online Shopping App provides users with a seamless shopping experien
 - Cart Management: Users can add products to their cart, view the cart contents, and manage the quantity of each product. The cart data is stored using Hive Flutter for persistence.
 - UI Customization: The app utilizes the Cupertino Icons and Flutter Vector Icons packages to enhance the UI with custom icons. It also leverages Google Fonts to apply unique typography styles throughout the app.
 - Gesture-based Interactions: The Flutter Slidable package is used to enable swipe actions for various operations, such as removing products from the cart.
+
+## Screenshots
+
+<div align="center">
+    <img src="screenshots/ss1.jpg" alt="Image 1" width="200" />
+    <img src="screenshots/ss2.jpg" alt="Image 2" width="200" />
+    <img src="screenshots/ss3.jpg" alt="Image 3" width="200" />
+</div>
+
+<div align="center">
+    <img src="screenshots/ss4.jpg" alt="Image 4" width="200" />
+    <img src="screenshots/ss5.jpg" alt="Image 5" width="200" />
+    <img src="screenshots/ss6.jpg" alt="Image 6" width="200" />
+</div>
